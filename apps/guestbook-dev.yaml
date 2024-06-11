@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<repo>'
+    repoURL: 'https://github.com/rbjoergensen/akuity-intro-agro-cd-eks-template'
     path: guestbook
     targetRevision: HEAD
     helm:
